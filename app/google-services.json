@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151025827319",
+    "project_id": "my-application-e780f",
+    "storage_bucket": "my-application-e780f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151025827319:android:4247b7f0fe6688c40702f2",
+        "android_client_info": {
+          "package_name": "com.tes.eat.anywhere.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151025827319-uej3bmoke715p6hsig8hircefr9m8945.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMML6epVuuzdJMEBp30gQjrNnZ-gZxJVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151025827319-uej3bmoke715p6hsig8hircefr9m8945.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
